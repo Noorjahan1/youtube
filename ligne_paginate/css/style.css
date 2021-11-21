@@ -1,0 +1,21 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #ccc;
+}
+.input-field{
+    width: 200px;
+    border-radius: 10px;
+    border: 1px solid grey;
+    float: right;
+    clear: both;
+}
+.input-field input{
+    background: transparent;
+    border: none;
+}
